@@ -12,7 +12,7 @@ Ces solutions possèdent des propriétés qui seront également vérifiées, pot
 
 Ci joint un exemple de tracé avec excel de la partie réelle des fonctions d'onde en fonction de la longueur considérée en argument.
 
-![alt text](https://github.com/0x14mth3n1ght/Schrodinger/blob/master/pres/images/graph_5_niveaux.png)
+![exemple](graph_5_niveaux.png)
 
 ## Commandes make
 
